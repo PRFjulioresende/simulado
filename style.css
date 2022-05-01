@@ -1,0 +1,55 @@
+#roboto{
+
+}
+
+
+#turma{
+    justify-content: left;
+    padding-top: 2px;
+    display: block;
+    align-items: center;
+    font-size: 30px;
+    color: red;
+    background-color: rgb(252, 252, 237);
+    margin: 0%;
+
+}
+
+
+div{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#simulado{
+    justify-content: left;
+    
+    display: block;
+    align-items: center;
+    font-size: 8vw;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    text-shadow: rgb(236, 100, 9) 1px  1px  1px;
+    background-color: rgb(253, 229, 11);
+}
+
+body{
+    background-image: url(gaokao.fw.png);
+    
+    
+    background-repeat: no-repeat;
+    background-size: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(49, 46, 46);
+    margin: 0%;
+    padding: 10px;
+
+    overflow: hidden;
+}
